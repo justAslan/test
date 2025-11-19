@@ -1,0 +1,130 @@
+{
+"items" : [
+{
+  "banners": {
+    "header_banner": {
+      "image": "https://tabloproject1.com/tablo/uploads/banner/headerbanner.webp",
+      "link": "http://shortslink1-4.com/headerbanner"
+    },
+    "footer_banner": {
+      "image": "https://tabloproject1.com/tablo/uploads/banner/footerbanner.webp",
+      "link": "http://shortslink1-4.com/footerbanner"
+    },
+    "top_banners": [
+      {
+        "id": 1,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/poliwinweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/poliwinmobil-banner.webp",
+        "link": "http://shortslink1-4.com/top1"
+      },
+      {
+        "id": 2,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/thecasinoweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/thecasinomobil-banner.webp",
+        "link": "http://shortslink1-4.com/top2"
+      },
+      {
+        "id": 3,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/betboxweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/betboxmobil-banner.webp",
+        "link": "http://shortslink1-4.com/top3"
+      },
+      {
+        "id": 4,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/hizlicasinoweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/hizlicasinomobil-banner.webp",
+        "link": "http://shortslink1-4.com/top4"
+      },
+      {
+        "id": 5,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/hotbahisweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/hotbahismobil-banner.webp",
+        "link": "http://shortslink1-4.com/top5"
+      },
+      {
+        "id": 6,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/yakabetweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/yakabetmobil-banner.webp",
+        "link": "http://shortslink1-4.com/top6"
+      }
+    ],
+    "middle_banners": [
+      {
+        "id": 1,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/neobetweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/neobetmobil-banner.webp",
+        "link": "http://shortslink1-4.com/banner1"
+      },
+      {
+        "id": 2,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/exonbetweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/exonbetmobil-banner.webp",
+        "link": "http://shortslink1-4.com/banner2"
+      },
+      {
+        "id": 3,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/amgbahisweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/amgbahismobil-banner.webp",
+        "link": "http://shortslink1-4.com/banner3"
+      },
+      {
+        "id": 4,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/nitrobahisweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/nitrobahismobil-banner.webp",
+        "link": "http://shortslink1-4.com/banner4"
+      },
+      {
+        "id": 5,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/almanbahisweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/almanbahismobil-banner.webp",
+        "link": "http://shortslink1-4.com/banner5"
+      },
+      {
+        "id": 6,
+        "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/betrupiweb-banner.webp",
+        "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/betrupimobil-banner.webp",
+        "link": "http://shortslink1-4.com/banner6"
+      }
+    ]
+  },
+  "vip_cards": [
+    {
+      "id": 1,
+      "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/pulibetweb.webp",
+      "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/pulibetmobil.webp",
+      "link": "http://shortslink1-4.com/vip1"
+    },
+    {
+      "id": 2,
+      "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/efesbetcasinoweb.webp",
+      "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/efesbetcasinomobil.webp",
+      "link": "http://shortslink1-4.com/vip2"
+    },
+    {
+      "id": 3,
+      "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/oldcasinoweb.webp",
+      "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/oldcasinomobil.webp",
+      "link": "http://shortslink1-4.com/vip3"
+    },
+    {
+      "id": 4,
+      "desktop_image": "https://tabloproject1.com/tablo/uploads/gif/chamadabetweb.webp",
+      "mobile_image": "https://tabloproject1.com/tablo/uploads/gif/chamadabetmobil.webp",
+      "link": "http://shortslink1-4.com/vip4"
+    }
+  ],
+  "main_button": {
+    "text": "YAKUTBAHIS GİRİŞ İÇİN TIKLAYINIZ!",
+    "link": "http://shortslink1-4.com/girisicintikla"
+  },
+  "betting_sites": [
+    {"id": 1, "name": "gettobet", "image": "https://tabloproject1.com/tablo/uploads/gettobet.webp", "link": "http://shortslink1-4.com/tablo1"},
+    {"id": 2, "name": "masterbetting", "image": "https://tabloproject1.com/tablo/uploads/masterbetting.webp", "link": "http://shortslink1-4.com/tablo2"},
+    {"id": 3, "name": "piabet", "image": "https://tabloproject1.com/tablo/uploads/piabet.webp", "link": "http://shortslink1-4.com/tablo3"},
+    {"id": 4, "name": "pusulabet", "image": "https://tabloproject1.com/tablo/uploads/pusulabet.webp", "link": "http://shortslink1-4.com/tablo4"}
+   
+  ]
+}
+
+]
+}
